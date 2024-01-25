@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- 👨‍💻 All of my projects are available at [https://realsujal.github.io/capstone-portfolio/](https://realsujal.github.io/capstone-portfolio/)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/RealSujal?tab=repositories)
 
 - 📫 How to reach me **sujalmahajan24@gmail.com**
 
